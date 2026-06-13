@@ -72,27 +72,6 @@ function App() {
               </p>
             </div>
           </div>
-
-          <div className="grid grid-cols-3 gap-3 text-center">
-            <div className="rounded-lg border border-slate-200 bg-slate-50 px-4 py-3">
-              <p className="text-xs font-semibold uppercase text-slate-500">
-                Engine
-              </p>
-              <p className="mt-1 text-sm font-bold text-slate-900">Groq LLM</p>
-            </div>
-            <div className="rounded-lg border border-slate-200 bg-slate-50 px-4 py-3">
-              <p className="text-xs font-semibold uppercase text-slate-500">
-                Search
-              </p>
-              <p className="mt-1 text-sm font-bold text-slate-900">FAISS</p>
-            </div>
-            <div className="rounded-lg border border-slate-200 bg-slate-50 px-4 py-3">
-              <p className="text-xs font-semibold uppercase text-slate-500">
-                Stack
-              </p>
-              <p className="mt-1 text-sm font-bold text-slate-900">LangChain</p>
-            </div>
-          </div>
         </div>
       </section>
 
